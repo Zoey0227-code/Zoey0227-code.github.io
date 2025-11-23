@@ -1,8 +1,11 @@
 title: Zoey
 description: Developer & Designer
 author: Zoey
-email: your-email@example.com
 url: "https://zoey0227-code.github.io"
+email: zoey152.huang@gmail.com
+github_username: Zoey0227-code
+linkedin_link: https://www.linkedin.com/in/wjh227/
+# phone: 6262686258  <-- (It is better NOT to put your phone number in the public sidebar to avoid spam calls. Keep it on the PDF resume only!)
 
 # Theme Settings
 markdown: kramdown
